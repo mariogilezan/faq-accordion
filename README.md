@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/mariogilezan/faq-accordion](https://github.com/mariogilezan/faq-accordion)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://faq-accordion-femtor.netlify.app/](https://faq-accordion-femtor.netlify.app/)
 
 ## My process
 
