@@ -1,0 +1,42 @@
+/* LOCAL FONTS */
+@font-face {
+  font-family: 'WorkSans';
+  src: url('./assets/fonts/static/WorkSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WorkSansSemiBold';
+  src: url('./assets/fonts/static/WorkSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'WorkSansBold';
+  src: url('./assets/fonts/static/WorkSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+/* VARIABLES */
+:root {
+  --white: #ffffff;
+  --light-pink: #f9f0ff;
+  --purple: #ad28eb;
+  --grayish-purple: #8c6991;
+  --dark-purple: #2f1533;
+}
+
+/* GLOBAL CSS */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'WorkSans';
+  background-color: var(--light-pink);
+  color: var(--dark-purple);
+}
+
+button {
+  color: var(--dark-purple);
+}
